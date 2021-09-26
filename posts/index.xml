@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Elroy Haw</title>
-    <link>https://elroy-haw.github.io/</link>
-    <description>Recent content on Elroy Haw</description>
+    <title>Posts on Elroy Haw</title>
+    <link>https://elroy-haw.github.io/posts/</link>
+    <description>Recent content in Posts on Elroy Haw</description>
     <image>
       <url>https://elroy-haw.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://elroy-haw.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 Sep 2021 14:27:15 +0800</lastBuildDate><atom:link href="https://elroy-haw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Sep 2021 14:27:15 +0800</lastBuildDate><atom:link href="https://elroy-haw.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal Site Using Hugo</title>
       <link>https://elroy-haw.github.io/posts/personal-site-using-hugo/</link>
@@ -18,19 +18,6 @@
       <guid>https://elroy-haw.github.io/posts/personal-site-using-hugo/</guid>
       <description>What is Hugo? According to the README, Hugo is a static HTML and CSS website generator written in Go. It takes a directory with content and templates, renders them into a full HTML website. This is basically a dream come true for someone like me who cannot be bothered with writing frontend code, and just want whatever written in some text (in this case markdown), to appear nice enough on the website.</description>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://elroy-haw.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://elroy-haw.github.io/about/</guid>
-      <description>Hello there 👋
-My name is Elroy and I am a Cloud/DevOps/Software Engineer based in Singapore 🇸🇬 I wish to write more posts on what I am currently learning and hence I started this site! Feel free to browse through them and give your comments 😊
-Education 🎓  Aug 16 - Jun 20 : National University of Singapore  Bachelor of Science (Honours) Major in Quantitative Finance, Second Major in Computer Science    Skills 💻  Languages : Python, Java Cloud : AWS DevOps : Kubernetes, Docker, Terraform Currently Learning : Go, Scala, Azure, Kubebuilder, Spark  Work Experience 💼   Jul 21 - Present : Grab</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
