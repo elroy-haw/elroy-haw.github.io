@@ -1,4 +1,4 @@
-baseURL: "https://elroyhaw.com/"
+baseURL: "https://elroy-haw.github.io/"
 title: Elroy Haw
 paginate: 5
 theme: PaperMod
@@ -44,11 +44,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "memoji.png"
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
 
   label:
     text: "Home"
@@ -103,7 +103,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/elroy-haw/elroy-haw.github.io/content"
+    URL: "https://github.com/elroy-haw/elroy-haw.github.io/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -150,7 +150,7 @@ menu:
 #         style: monokai
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
