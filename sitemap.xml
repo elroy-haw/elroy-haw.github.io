@@ -2,23 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://elroy-haw.github.io/</loc>
-    <lastmod>2021-09-26T14:27:15+08:00</lastmod>
+    <loc>https://elroyhaw.com/about/</loc>
   </url><url>
-    <loc>https://elroy-haw.github.io/posts/personal-site-using-hugo/</loc>
-    <lastmod>2021-09-26T14:27:15+08:00</lastmod>
+    <loc>https://elroyhaw.com/archives/</loc>
   </url><url>
-    <loc>https://elroy-haw.github.io/posts/</loc>
-    <lastmod>2021-09-26T14:27:15+08:00</lastmod>
+    <loc>https://elroyhaw.com/categories/</loc>
   </url><url>
-    <loc>https://elroy-haw.github.io/about/</loc>
+    <loc>https://elroyhaw.com/</loc>
   </url><url>
-    <loc>https://elroy-haw.github.io/archives/</loc>
+    <loc>https://elroyhaw.com/search/</loc>
   </url><url>
-    <loc>https://elroy-haw.github.io/categories/</loc>
-  </url><url>
-    <loc>https://elroy-haw.github.io/search/</loc>
-  </url><url>
-    <loc>https://elroy-haw.github.io/tags/</loc>
+    <loc>https://elroyhaw.com/tags/</loc>
   </url>
 </urlset>
