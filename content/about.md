@@ -14,7 +14,7 @@ enableInlineShortcodes: true
 ---
 Hello there :wave:
 
-My name is Elroy and I am a Cloud/DevOps/Software Engineer based in Singapore :singapore: I wish to write more posts on what I am currently learning and hence I started this site! Feel free to browse through them and give your comments :blush:
+My name is Elroy and I am a Cloud/DevOps/Software Engineer based in Singapore :singapore: I started this website to document my learning journey for the technologies that I am currently pursuing! Feel free to browse through them and give your comments :blush:
 
 ## Education :mortar_board:
 * _Aug 16 - Jun 20_ : National University of Singapore 
