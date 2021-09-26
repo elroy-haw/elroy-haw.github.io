@@ -21,7 +21,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Elroy Haw
-  description: "Elroy Haw"
+  description: "Cloud // DevOps // Software Engineer based in Singapore."
   keywords: [Blog, Portfolio]
   author: Me
   # author: ["Me", "You"] # multiple authors
