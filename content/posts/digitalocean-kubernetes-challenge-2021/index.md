@@ -1,5 +1,5 @@
 ---
-title: "Digitalocean Kubernetes Challenge 2021 - Crossplane"
+title: "DigitalOcean Kubernetes Challenge 2021 - Crossplane"
 date: 2021-12-11T23:41:06+08:00
 ---
 
