@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Elroy Haw</title>
-    <link>https://elroyhaw.com/</link>
-    <description>Recent content on Elroy Haw</description>
+    <title>Posts on Elroy Haw</title>
+    <link>https://elroyhaw.com/posts/</link>
+    <description>Recent content in Posts on Elroy Haw</description>
     <image>
       <url>https://elroyhaw.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://elroyhaw.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 11 Dec 2021 23:41:06 +0800</lastBuildDate><atom:link href="https://elroyhaw.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Dec 2021 23:41:06 +0800</lastBuildDate><atom:link href="https://elroyhaw.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Digitalocean Kubernetes Challenge 2021 - Crossplane</title>
       <link>https://elroyhaw.com/posts/digitalocean-kubernetes-challenge-2021/</link>
@@ -20,19 +20,6 @@
 Install Crossplane, which is like Terraform but you manage the infra from inside Kubernetes, not from outside. Crossplane is an open source Kubernetes add-on that enables platform teams to assemble infrastructure from multiple vendors, and expose higher level self-service APIs for application teams to consume, without having to write any code.
 Initial thoughts I have used Terraform for more than a year now and to provision infrastructures using plain Kubernetes manifests is a very refreshing idea to me.</description>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://elroyhaw.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://elroyhaw.com/about/</guid>
-      <description>Hello there 👋
-My name is Elroy and I am a Cloud/DevOps/Software Engineer based in Singapore 🇸🇬 I started this website to document my learning journey for the technologies that I am currently pursuing! Feel free to browse through them and give your comments 😊
-Education 🎓  Aug 16 - Jun 20 : National University of Singapore  Bachelor of Science (Honours) Major in Quantitative Finance, Second Major in Computer Science    Skills 💻  Languages : Python, Java Cloud : AWS DevOps : Kubernetes, Docker, Terraform Currently Learning : Go, Scala, Azure, Kubebuilder, Spark  Work Experience 💼   Jul 21 - Present : Grab</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
