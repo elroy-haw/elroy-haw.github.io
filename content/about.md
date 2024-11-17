@@ -1,40 +1,15 @@
 ---
 title: "About"
-draft: false
-showtoc: false
-hidemeta: true
+layout: "about"
+url: "/about/"
+showToc: false
+hideSummary: true
+hideMeta: true
 comments: false
 disableShare: true
 searchHidden: true
-hideSummary: true
-ShowReadingTime: false
-ShowBreadCrumbs: false
-ShowPostNavLinks: false
-enableInlineShortcodes: true
 ---
+
 Hello there :wave:
 
-My name is Elroy and I am a Cloud/DevOps/Software Engineer based in Singapore :singapore: I started this website to document my learning journey for the technologies that I am currently pursuing! Feel free to browse through them and give your comments :blush:
-
-## Education :mortar_board:
-* _Aug 16 - Jun 20_ : National University of Singapore 
-  * Bachelor of Science (Honours) Major in Quantitative Finance, Second Major in Computer Science
-
-## Skills :computer:
-* _Languages_ : Python, Java
-* _Cloud_ : AWS
-* _DevOps_ : Kubernetes, Docker, Terraform
-* _Currently Learning_ : Go, Scala, Azure, Kubebuilder, Spark
-
-## Work Experience :briefcase:
-* _Jul 21 - Present_ : Grab
-  * DevOps Engineer, Data Technology (Infrastructure)
-
-* _Feb 20 - Jul 21_ : Goldman Sachs
-  * Engineering Analyst, Core Engineering (Cloud Enablement)
-
-* _May 19 - Aug 19_ : Macquarie Group
-  * Software Engineer Summer Associate
-
-* _Jul 18 - Jan 19_ : Integer Alpha
-  * Quantitative Analyst Intern
+My name is Elroy, an engineer based in a little red dot known as Singapore :singapore: I launched this blog as a space to document my learnings, before I forget them with time. Feel free to explore around and share your thoughts :blush:

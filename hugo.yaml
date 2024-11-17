@@ -1,0 +1,106 @@
+baseURL: https://elroy.fyi
+title: Elroy's Blog
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+enableEmoji: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+pygmentsUseClasses: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 15
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 20
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 40
+
+markup:
+  highlight:
+    noClasses: false
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Elroy Haw
+  description: Elroy's Personal Website
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  dateFormat: 2 January 2006
+  defaultTheme: dark
+  disableThemeToggle: true
+
+  showReadingTime: true
+  showShareButtons: false
+  showPostNavLinks: true
+  showBreadCrumbs: false
+  showCodeCopyButtons: true
+  showWordCount: true
+  showRssButtonInSectionTermList: false
+  useHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hideMeta: false
+  hideSummary: false
+  showToc: true
+  tocOpen: true
+
+  assets:
+    favicon: memoji.png
+
+  label:
+    text: Home
+
+  googleFontsUrl: https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap
+
+  profileMode:
+    enabled: true
+    title: Elroy Haw
+    subtitle:
+    imageUrl: display_picture.webp
+    imageWidth: 240
+    imageHeight: 240
+    imageTitle: Memoji laptop
+
+  socialIcons:
+    - name: email
+      url: "mailto:elroyhaw@gmail.com"
+    - name: github
+      url: "https://github.com/elroy-haw/"
+    - name: linkedin
+      url: "https://linkedin.com/in/elroy-haw/"
+
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
