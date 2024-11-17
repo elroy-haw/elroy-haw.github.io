@@ -1,6 +1,6 @@
 ---
-title: "Search" # in any language you want
-layout: "search" # is necessary
+title: "Search"
+layout: "search"
 url: "/search/"
 summary: "search"
 ---
